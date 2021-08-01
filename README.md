@@ -4,7 +4,7 @@
 
 关于C#语言的学习教程，可以参考[《365天深入理解C#语言》]()。
 
-本项目创建于2021年7月28日，最近一次更新时间为2021年7月28日。本项目会持续更新，直到海枯石烂。
+本项目创建于2021年7月28日，最近一次更新时间为2021年8月1日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-C#语言资源]()
 - [0x02-C#语言标准]()
@@ -125,6 +125,8 @@
 八、病毒免杀
 
 - [ ] https://github.com/YDHCUI/csload.nets
+- [ ] https://github.com/rvrsh3ll/CPLResourceRunner
+- [ ] https://github.com/Inf0secRabbit/BadAssMacros
 
 九、代理隧道
 
@@ -141,6 +143,7 @@
 十五、漏洞赏金
 
 十六、其他项目
+- [ ] https://github.com/bats3c/ADCSPwn
 
 ## 0x06-C#语言逆向
 
